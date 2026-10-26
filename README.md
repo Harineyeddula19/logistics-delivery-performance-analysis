@@ -76,9 +76,6 @@ No final analytical findings or model performance results are claimed at this st
 - Practical recommendations supported by the available data.
 - A portfolio project demonstrating logistics analytics skills.
 
-## Project Status
-
-**In progress — Week 1: Strategic Planning and Data Exploration.**
 
 ## Author
 
